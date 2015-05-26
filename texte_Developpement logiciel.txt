@@ -1,0 +1,13 @@
+Pre-requis: Notions de modélisation UML
+
+
+
+Competences acquises: UML, Design patterns, programmation en Z
+
+
+
+Programme: 
+
+
+
+Ameliorations a apporter:
