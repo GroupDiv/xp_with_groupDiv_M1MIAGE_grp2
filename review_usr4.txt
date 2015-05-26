@@ -3,3 +3,4 @@
 164317|Gestion Financiere|usr4: Programme : Bilan fonctionnel, SIG, Analyse financière
 164545|Developpement logiciel|usr4: Pre-requis : OCL
 164714|Technique de communication|usr4: moi non plus
+165047|Developpement logiciel|usr4: Compétences acquises : Conception
