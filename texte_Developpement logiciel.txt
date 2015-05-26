@@ -2,7 +2,7 @@ Pre-requis: Notions de modélisation UML, OCL, un peu de Java
 
 
 
-Competences acquises: UML, Design patterns, programmation en Z, conception
+Competences acquises: UML, Design patterns, programmation en Z
 
 
 
