@@ -7,7 +7,7 @@ Principes et outils du web sémantique
 
 
 Programme:
-
+SPARQL
 
 
 Ameliorations a apporter:
