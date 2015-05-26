@@ -6,8 +6,8 @@ Competences acquises: UML, Design patterns, programmation en Z
 
 
 
-Programme: BLaBLaBLa
+Programme: Un peu d'UML pour utiliser les design patterns et un peu de Z pour modeliser des contraintes.
 
 
 
-Ameliorations a apporter: La liste est longue ! Ne pas diviser le cours en deux modules avec deux profs. Faire des projets intéressants !
+Ameliorations a apporter: La liste est longue ! Ne pas diviser le cours en deux modules avec deux profs. Faire des projets intéressants avec des outils qui ne plantent pas à chaque fois qu'on enregistre !
