@@ -1,2 +1,3 @@
 164110|Developpement Web et applications riches|usr4: Ajouter dans programme : servlet, api rest, google cloud
 164235|Gestion Financiere|usr4: Faute : décisions
+164317|Gestion Financiere|usr4: Programme : Bilan fonctionnel, SIG, Analyse financière
