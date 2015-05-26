@@ -1,9 +1,9 @@
 Pre-requis:
-Algorithmique et programmation web, base de données
+Algorithmique et programmation web, base de données.
 
 
 Competences acquises:
-Datastore et programmation pour le Cloud
+Datastore et programmation pour le Cloud.
 
 
 Programme:
@@ -11,4 +11,4 @@ Technologies : Java JEE, Angular JS, Api REST, google cloud, JS
 
 
 Ameliorations a apporter:
-Structure du cours
+Un cours plus structuré faciliterait l'apprentissage.

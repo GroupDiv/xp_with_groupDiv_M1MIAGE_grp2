@@ -1,4 +1,5 @@
-Pre-requis: Culture web, cours avançé XML
+Pre-requis: 
+Culture web, cours avançé XML
 
 
 
@@ -7,7 +8,7 @@ Principes et outils du web sémantique
 
 
 Programme:
-
+SPARQL
 
 
 Ameliorations a apporter:
