@@ -3,11 +3,11 @@ UE - Contrôle de gestion
 
 
 Competences acquises:
-Analyse financière d'une entreprise. Prendre des descisions par rapport à la gestion d'une entreprise.
+Analyse financière d'une entreprise. Prendre des déscisions par rapport à la gestion d'une entreprise.
 
 
 Programme:
-Coucou
+Bilan fonction, SIG, Analyse financière
 
 
 Ameliorations a apporter:
