@@ -1,4 +1,4 @@
-Pre-requis: Notions de modélisation UML, OCL
+Pre-requis: Notions de modélisation UML
 
 
 
