@@ -2,7 +2,7 @@ Pre-requis:
 Algorithmique et programmation web, base de données.
 
 
-Competences acquises:
+Competences acquises au cours de l'UE:
 Programmation web sur serveur distribué.
 Datastore et programmation pour le Cloud.
 
