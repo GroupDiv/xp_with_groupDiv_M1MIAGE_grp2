@@ -3,6 +3,7 @@ Algorithmique et programmation web, base de données.
 
 
 Competences acquises:
+Programmation web sur serveur distribué.
 Datastore et programmation pour le Cloud.
 
 
