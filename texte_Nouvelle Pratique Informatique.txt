@@ -12,3 +12,4 @@ SPARQL
 
 
 Ameliorations a apporter:
+Faire un projet pour le semestre
