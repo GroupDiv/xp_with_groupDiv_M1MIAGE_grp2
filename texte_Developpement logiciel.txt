@@ -1,4 +1,4 @@
-Pre-requis: Notions de modélisation UML
+Pre-requis: Notions de modélisation UML, OCL, un peu de Java
 
 
 
