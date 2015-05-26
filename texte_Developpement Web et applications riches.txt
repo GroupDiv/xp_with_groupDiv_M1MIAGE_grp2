@@ -1,5 +1,5 @@
 Pre-requis:
-Algorithmique et programmation web
+Algorithmique et programmation web, base de données
 
 
 Competences acquises:
@@ -7,8 +7,7 @@ Datastore et programmation pour le Cloud
 
 
 Programme:
-ça scale ou pas ?
-Technologies : Java JEE, Angular JS, Api REST, google cloud
+Technologies : Java JEE, Angular JS, Api REST, google cloud, JS
 
 
 Ameliorations a apporter:
