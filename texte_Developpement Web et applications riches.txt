@@ -7,7 +7,7 @@ Programmation web sur serveur distribué.
 Datastore et programmation pour le Cloud.
 
 
-Programme:
+Programme de l'UE:
 Technologies : Java JEE, Angular JS, Api REST, google cloud, JS
 
 
