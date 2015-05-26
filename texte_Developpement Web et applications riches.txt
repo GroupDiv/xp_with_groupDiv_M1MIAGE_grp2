@@ -1,5 +1,5 @@
 Pre-requis:
-Algorithmique et programmation web
+Algorithmique et programmation web, base de données
 
 
 Competences acquises:
