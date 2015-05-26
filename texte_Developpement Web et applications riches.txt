@@ -11,5 +11,5 @@ Programme de l'UE:
 Technologies : Java JEE, Angular JS, Api REST, google cloud, JS
 
 
-Ameliorations a apporter:
+Ameliorations à apporter:
 Un cours plus structuré faciliterait l'apprentissage.
