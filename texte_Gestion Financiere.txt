@@ -7,7 +7,7 @@ Analyse financière d'une entreprise. Prendre des déscisions par rapport à la 
 
 
 Programme:
-Coucou
+Bilan fonction, SIG, Analyse financière
 
 
 Ameliorations a apporter:
