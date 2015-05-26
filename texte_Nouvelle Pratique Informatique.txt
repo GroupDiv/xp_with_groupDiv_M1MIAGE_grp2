@@ -13,3 +13,4 @@ SPARQL
 
 Ameliorations a apporter:
 Faire un projet pour le semestre
+Revenir à un intervenant extérieur qui travail en entreprise et qui connait mieux les vraies pratiques en entreprise.
