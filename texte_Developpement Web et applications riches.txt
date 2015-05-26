@@ -1,0 +1,14 @@
+Pre-requis:
+Algorithmique et programmation web
+
+
+Competences acquises:
+Datastore et programmation pour le Cloud
+
+
+Programme:
+ça scale ou pas ?
+
+
+Ameliorations a apporter:
+Structure du cours
