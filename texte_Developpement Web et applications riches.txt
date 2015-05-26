@@ -8,7 +8,7 @@ Datastore et programmation pour le Cloud
 
 Programme:
 ça scale ou pas ?
-Technologies : Java JEE, Angular JS
+Technologies : Java JEE, Angular JS, Api REST, google cloud
 
 
 Ameliorations a apporter:
