@@ -2,3 +2,4 @@
 164550|Developpement Web et applications riches|usr3: Changer de prof
 164630|Developpement logiciel|usr3: Un peu de Java
 164739|Nouvelle Pratique Informatique|usr3: Ca avance pas des masses
+164819|Gestion Financiere|usr3: Bilan financier
